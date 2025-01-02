@@ -49,6 +49,7 @@ export const CallToAction = () => {
             type="email"
             name="email"
             placeholder="your@email.com"
+            required
             className="h-12 bg-white/20 rounded-lg px-5 placeholder:text-[#9CA3AF] sm:flex-1"
           />
           <button type="submit" className="bg-white text-black h-12 px-5 rounded-lg">
